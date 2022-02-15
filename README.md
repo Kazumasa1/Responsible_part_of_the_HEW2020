@@ -14,6 +14,12 @@ https://github.com/Kazumasa1/HEW2020
 
 ![myPart](https://user-images.githubusercontent.com/70145199/153984630-de5490ce-0009-4645-a72f-05bc8426c4e6.png)
 
+## Requirement
+PCのブラウザで動作
+### 注意！！！！！！！！
+ブラウザの設定でハードウェアアクセラレーションを使用しないと動作が激おもになります
+
+![chrome](https://user-images.githubusercontent.com/70145199/153993731-57b2993e-f880-44b4-8911-ddac413b2df6.png)
 ## Usage
 ### モデルを追加する
 #### 熱帯魚を配置する
